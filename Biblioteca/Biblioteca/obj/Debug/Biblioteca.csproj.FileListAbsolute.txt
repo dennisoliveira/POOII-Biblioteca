@@ -1,0 +1,13 @@
+C:\Users\Dennis\Desktop\Sistemas POO II\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Dennis\Desktop\Sistemas POO II\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Dennis\Desktop\Sistemas POO II\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Dennis\Desktop\Sistemas POO II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Desktop\Sistemas POO II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Principal.resources
+C:\Users\Dennis\Desktop\Sistemas POO II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\Dennis\Desktop\Sistemas POO II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\Dennis\Desktop\Sistemas POO II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Dennis\Desktop\Sistemas POO II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Dennis\Desktop\Sistemas POO II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.frmClientes.resources
+C:\Users\Dennis\Desktop\Sistemas POO II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.frmFuncionarios.resources
+C:\Users\Dennis\Desktop\Sistemas POO II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.frmLivros.resources
+C:\Users\Dennis\Desktop\Sistemas POO II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.frmCadastrarClientes.resources
